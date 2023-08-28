@@ -21,8 +21,3 @@ Here are some ideas to get you started:
 Waste classifier built during the project phase of TechLabs Berlin
 
 Link to repo: https://github.com/TechLabs-Berlin/wt23-wastewise
-
-#### Beautify Berlin: 
-Disclaimer: One of my first projects. Same is true for my teammates. Do not expect much.
-
-Link to repo: https://github.com/TechLabs-Berl
