@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Other repos I have been involved in but that I do not own
+### Contributions
 
-#### WasteWise: 
-Waste classifier built during the project phase of TechLabs Berlin
+#### WasteWise:
 
-Link to repo: https://github.com/TechLabs-Berlin/wt23-wastewise
+An app recommending correct disposal of scanned waste objects in Germany.
+Built for the project phase of the Digital Shaper Program at TechLabs Berlin.
+My role: Trained the image classifier feature using fastai/PyTorch, deployed it with Hugging Face Spaces.
+
+Repository: https://github.com/TechLabs-Berlin/wt23-wastewise
