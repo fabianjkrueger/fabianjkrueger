@@ -17,6 +17,17 @@ Here are some ideas to get you started:
 
 ### My Repos
 
+#### Muffin vs Chihuahua Classification
+
+Fine tuning a resnet to binary image classification between muffins and chihuahuas
+based on the meme.
+<!--FIXME: insert the meme here-->
+
+#### RestAI - Sleep prediction
+
+Training a model to predict sleep quality based on features like caffeine consumption and
+physical activity.
+
 ### Contributions
 
 #### WasteWise:
